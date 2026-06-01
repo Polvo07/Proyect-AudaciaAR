@@ -3,10 +3,17 @@ using UnityEngine.SceneManagement;
 
 public class SceneLoader : MonoBehaviour
 {
-    public string sceneName;
+    [SerializeField] private string sceneName;
 
     public void LoadScene()
     {
-        SceneManager.LoadScene(sceneName);
+        if (!string.IsNullOrEmpty(sceneName))
+        {
+            SceneManager.LoadScene(sceneName);
+        }
+        else
+        {
+            Debug.LogError("No se ha asignado ninguna escena.");
+        }
     }
 }

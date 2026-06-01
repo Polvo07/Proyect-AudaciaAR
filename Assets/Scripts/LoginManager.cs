@@ -15,7 +15,7 @@ public class LoginManager : MonoBehaviour
 
         if (usuario == "admin" && password == "1234")
         {
-            SceneManager.LoadScene("04-Scan");
+            SceneManager.LoadScene("01-Menu");
         }
         else
         {
