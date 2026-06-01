@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.4.1">
+        <ModelTarget name="CalvinFixed" targetId="13b3123035f14d03852c20e9c8208ba4" version="14.0" toolVersion="v7.4.1" bbox="-0.0498887 -0.0194169 -0.0396879 0.0498959 0.0215702 0.0397108" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="CalvinFixed" assemblyId="b25a9dd8fcbc43f5a7baa4bc0e02506d">
+        <Part name="CalvinFixed" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
