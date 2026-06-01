@@ -18,9 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/00-LogIn.unity
     guid: ccf7f9507f1ead447997d430e1f6a9f0
   - enabled: 1
-    path: Assets/Scenes/03-.unity
+    path: Assets/Scenes/03-Calvin.unity
     guid: c4d04d85ef560e54c83963b58591cc4e
   - enabled: 1
-    path: Assets/Scenes/04-Scan.unity
+    path: Assets/Scenes/02-Scan.unity
     guid: 2e4603eebba69954589003b5b1f5e2ee
   m_configObjects: {}
