@@ -347,7 +347,7 @@ GameObject:
   - component: {fileID: 1217473989}
   - component: {fileID: 1217473988}
   m_Layer: 0
-  m_Name: GameManager
+  m_Name: CambiarEscena
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -365,7 +365,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 197b1bd9dfc72594e99cbb593df4e8cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: 03-Rov
+  sceneName: 02-MenuScan
 --- !u!4 &1217473989
 Transform:
   m_ObjectHideFlags: 0
@@ -464,6 +464,42 @@ PrefabInstance:
     - target: {fileID: 2881100024640696789, guid: 350231e88337c9549867deae9c258d1f, type: 3}
       propertyPath: m_Name
       value: Frace
+      objectReference: {fileID: 0}
+    - target: {fileID: 3445701592771591910, guid: 350231e88337c9549867deae9c258d1f, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3445701592771591910, guid: 350231e88337c9549867deae9c258d1f, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3445701592771591910, guid: 350231e88337c9549867deae9c258d1f, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3445701592771591910, guid: 350231e88337c9549867deae9c258d1f, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3445701592771591910, guid: 350231e88337c9549867deae9c258d1f, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1617.373
+      objectReference: {fileID: 0}
+    - target: {fileID: 3445701592771591910, guid: 350231e88337c9549867deae9c258d1f, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 3183.0596
+      objectReference: {fileID: 0}
+    - target: {fileID: 3445701592771591910, guid: 350231e88337c9549867deae9c258d1f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -1.2112
+      objectReference: {fileID: 0}
+    - target: {fileID: 3445701592771591910, guid: 350231e88337c9549867deae9c258d1f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -3.3849
+      objectReference: {fileID: 0}
+    - target: {fileID: 3639646226777865224, guid: 350231e88337c9549867deae9c258d1f, type: 3}
+      propertyPath: m_Name
+      value: ScanTrabajos
       objectReference: {fileID: 0}
     - target: {fileID: 6096806959751645915, guid: 350231e88337c9549867deae9c258d1f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
