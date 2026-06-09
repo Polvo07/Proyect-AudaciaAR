@@ -715,8 +715,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1327301966}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -1.7320508}
+  m_LocalRotation: {x: -0.13609378, y: 0.06444302, z: -0.008871751, w: -0.988558}
+  m_LocalPosition: {x: 0.56091833, y: 0.59304726, z: -1.6860516}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -824,29 +824,29 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: ecosistemas
+  mTrackableName: mata
   mInitializedInEditor: 1
-  mDataSetPath: Vuforia/ecosistemas.xml
-  mBaseSize: 0.547626
-  mAspectRatioXY: 0.84962547
-  mAspectRatioXZ: 1.8240933
+  mDataSetPath: Vuforia/mata.xml
+  mBaseSize: 0.576971
+  mAspectRatioXY: 1.7341427
+  mAspectRatioXZ: 0.9345201
   mShowBoundingBox: 0
   mOverrideSnappingPose: 0
-  mBBoxMin: {x: -0.269353, y: -0.236677, z: -0.498591}
-  mBBoxMax: {x: 0.278273, y: 0.2286, z: 0.50033}
-  mPreviewImage: {fileID: 2800000, guid: 64e119830061489e96d6bc7fc3be5cc1, type: 3}
+  mBBoxMin: {x: -0.346495, y: 0.00913, z: -0.266147}
+  mBBoxMax: {x: 0.230476, y: 1.00968, z: 0.273044}
+  mPreviewImage: {fileID: 2800000, guid: beb56cfe0edc4354908d27dd5352473e, type: 3}
   mEnhanceRuntimeDetection: 0
   m3DGuideViewModel: {fileID: 0}
   m2DGuideViewImage: {fileID: 0}
-  mGuideViewDisplayMode: 0
+  mGuideViewDisplayMode: 2
   m2DGuideViewMaterial: {fileID: 0}
   m3DGuideViewMaterial: {fileID: 0}
-  mLength: 0.547626
-  mWidth: 0.46527702
-  mHeight: 0.998921
+  mLength: 0.576971
+  mWidth: 1.00055
+  mHeight: 0.539191
   m2DGuideViewMaterials: []
   m3DGuideViewMaterials: []
-  mSelectedGuideView: GuideView_0003
+  mSelectedGuideView: GuideView_0002
   mMotionHint: 1
   mTrackingMode: 1
   mTrackingOptimization: 0
@@ -864,7 +864,7 @@ Transform:
   m_GameObject: {fileID: 1543215719}
   serializedVersion: 2
   m_LocalRotation: {x: -0.086894915, y: -0, z: -0, w: 0.99621755}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -0.489, z: 1.78}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -885,8 +885,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1543215722}
   mHiddenRoot: {fileID: 0}
-  mTargetName: ecosistemas
-  mDatasetName: Vuforia/ecosistemas.xml
+  mTargetName: mata
+  mDatasetName: Vuforia/mata.xml
   mCastedBehaviour: {fileID: 1543215722}
   mModelTargetPreview: {fileID: 0}
 --- !u!1 &1720449098
@@ -917,7 +917,7 @@ Transform:
   m_GameObject: {fileID: 1720449098}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.26, z: 0}
+  m_LocalPosition: {x: 0.432, y: 0.51, z: 0.045}
   m_LocalScale: {x: 0.31057, y: 0.31057, z: 0.31057}
   m_ConstrainProportionsScale: 0
   m_Children: []
