@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="ecosistemas" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="ecosistemass_assembly" assemblyId="311824838cce4f14bb49404e95d019dd">
+<Part name="ecosistemas" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.00147671 -0.00564604 1.47286" rotation="AD: 0.997221 -0.154271 0.575746 205.905" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="0.00429726 -0.00275916 1.50331" rotation="AD: 0.999839 0.0717852 -0.267906 208.955" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.00147676 -0.00134887 1.61671" rotation="AD: -0.932212 -0.432641 1.61464 165.129" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="-0.00429726 -0.00423586 1.63464" rotation="AD: 0.731172 -0.731172 2.72877 187.682" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

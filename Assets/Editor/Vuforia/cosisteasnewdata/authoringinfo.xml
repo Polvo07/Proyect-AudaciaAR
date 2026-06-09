@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="11.4.4">
+<ModelTarget name="cosisteasnewdata" targetId="8db28617f50f41b3889785c21fad5d63" version="14.0" toolVersion="11.4.4" bbox="-0.247725 0.0141291 -0.503737 0.246931 0.658947 0.507849" upVector="0 1 0" previewImage="8db28617f50f41b3889785c21fad5d63_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="cosisteasnewdatas_assembly" assemblyId="7ecb7d821a0b442fabce792284052dff">
+<Part name="cosisteasnewdata" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.000684321 0.290461 2.02705" rotation="AD: 0.999839 0.0717852 -0.267906 208.955" image="cosisteasnewdata_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.00197887 0.291108 2.02593" rotation="AD: 0.997221 -0.154271 0.575746 205.905" image="cosisteasnewdata_GuideView_0001.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.000684321 0.29244 2.02362" rotation="AD: 0.731172 -0.731172 2.72877 187.682" image="cosisteasnewdata_GuideView_0002.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="0.00197881 0.291793 2.02474" rotation="AD: -0.932212 -0.432641 1.61464 165.129" image="cosisteasnewdata_GuideView_0003.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="calvinvr2new" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="calvinvr2news_assembly" assemblyId="1bf12847bd6947d6a8716688704022f0">
+<Part name="calvinvr2new" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.00210613 0.256428 1.83787" rotation="AD: 0.999839 0.0717852 -0.267906 208.955" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="0.00142473 0.256769 1.83728" rotation="AD: 0.997221 -0.154271 0.575746 205.905" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0.00210613 0.255004 1.84034" rotation="AD: 0.731172 -0.731172 2.72877 187.682" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="-0.00142479 0.254663 1.84093" rotation="AD: -0.932212 -0.432641 1.61464 165.129" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

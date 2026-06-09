@@ -315,7 +315,7 @@ Transform:
   m_GameObject: {fileID: 699081091}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.124386184, y: 0.2739913, z: -0.26921916}
+  m_LocalPosition: {x: 0.152, y: 0.47313148, z: -3.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -509,8 +509,8 @@ Transform:
   m_GameObject: {fileID: 1297136689}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.0000000071117, y: 0.162, z: 0.000000015066}
-  m_LocalScale: {x: 0.26638, y: 0.26638, z: 0.26638}
+  m_LocalPosition: {x: 0.09, y: 0.5, z: 0.07}
+  m_LocalScale: {x: 0.6628617, y: 0.6628617, z: 0.6628617}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1518241675}
@@ -756,29 +756,29 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: CalvinFixed
+  mTrackableName: calvin111
   mInitializedInEditor: 1
-  mDataSetPath: Vuforia/CalvinFixed.xml
-  mBaseSize: 0.0997846
-  mAspectRatioXY: 0.41075578
-  mAspectRatioXZ: 0.795701
+  mDataSetPath: Vuforia/calvin111.xml
+  mBaseSize: 0.884453
+  mAspectRatioXY: 0.5751385
+  mAspectRatioXZ: 0.9859348
   mShowBoundingBox: 0
   mOverrideSnappingPose: 0
-  mBBoxMin: {x: -0.0498887, y: -0.0194169, z: -0.0396879}
-  mBBoxMax: {x: 0.0498959, y: 0.0215702, z: 0.0397108}
-  mPreviewImage: {fileID: 0}
+  mBBoxMin: {x: -0.421669, y: -0.25441, z: -0.437432}
+  mBBoxMax: {x: 0.462784, y: 0.254273, z: 0.434581}
+  mPreviewImage: {fileID: 2800000, guid: 8e6982d2c619448e9d8a5977ad163a99, type: 3}
   mEnhanceRuntimeDetection: 0
   m3DGuideViewModel: {fileID: 0}
   m2DGuideViewImage: {fileID: 0}
   mGuideViewDisplayMode: 0
   m2DGuideViewMaterial: {fileID: 0}
   m3DGuideViewMaterial: {fileID: 0}
-  mLength: 0.0997846
-  mWidth: 0.0409871
-  mHeight: 0.07939871
+  mLength: 0.884453
+  mWidth: 0.50868297
+  mHeight: 0.872013
   m2DGuideViewMaterials: []
   m3DGuideViewMaterials: []
-  mSelectedGuideView: 
+  mSelectedGuideView: GuideView_0000
   mMotionHint: 1
   mTrackingMode: 1
   mTrackingOptimization: 0
@@ -796,7 +796,7 @@ Transform:
   m_GameObject: {fileID: 1518241671}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.6990649, z: -0, w: 0.7150582}
-  m_LocalPosition: {x: 0.15742, y: 0.2237, z: 0.074104}
+  m_LocalPosition: {x: 0.15742, y: 0.2237, z: -0.91}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -817,8 +817,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1518241674}
   mHiddenRoot: {fileID: 0}
-  mTargetName: CalvinFixed
-  mDatasetName: Vuforia/CalvinFixed.xml
+  mTargetName: calvin111
+  mDatasetName: Vuforia/calvin111.xml
   mCastedBehaviour: {fileID: 1518241674}
   mModelTargetPreview: {fileID: 0}
 --- !u!1001 &1990140157283278240

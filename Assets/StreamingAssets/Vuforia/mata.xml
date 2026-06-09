@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="mata" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="matas_assembly" assemblyId="f32de9e4852140f0b8e0337afe4e88ad">
+<Part name="mata" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0485131 0.425161 1.66441" rotation="AD: 0.999839 0.0717852 -0.267906 208.955" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="0.0319915 0.4169 1.67871" rotation="AD: -0.932212 -0.432641 1.61464 165.129" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0.0485131 0.457153 1.60899" rotation="AD: 0.731172 -0.731172 2.72877 187.682" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="-0.0319915 0.465414 1.59469" rotation="AD: 0.997221 -0.154271 0.575746 205.905" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

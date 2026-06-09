@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="11.4.4">
+<ModelTarget name="eco" targetId="86cc0805ac6e42fd86b33462e62cdad8" version="14.0" toolVersion="11.4.4" bbox="-0.577435 0.00913 -0.273585 0.816739 1.00968 0.278537" upVector="0 1 0" previewImage="86cc0805ac6e42fd86b33462e62cdad8_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="ecos_assembly" assemblyId="b51524476f8b422999afab8817dd4ded">
+<Part name="eco" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.108458 0.456187 2.6525" rotation="AD: 0.99989 0.0681414 -0.232617 211.782" image="eco_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.0576816 0.493587 2.58413" rotation="AD: -0.932212 -0.432641 1.61464 165.129" image="eco_GuideView_0001.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.10486 0.412316 2.72489" rotation="AD: 0.731172 -0.731172 2.72877 187.682" image="eco_GuideView_0002.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="0.0576814 0.388727 2.76575" rotation="AD: 0.997221 -0.154271 0.575746 205.905" image="eco_GuideView_0003.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
