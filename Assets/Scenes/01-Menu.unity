@@ -532,6 +532,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: ScanTrabajos
       objectReference: {fileID: 0}
+    - target: {fileID: 5822786325944073470, guid: 350231e88337c9549867deae9c258d1f, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5822786325944073470, guid: 350231e88337c9549867deae9c258d1f, type: 3}
+      propertyPath: m_ReferenceResolution.x
+      value: 1400
+      objectReference: {fileID: 0}
+    - target: {fileID: 5822786325944073470, guid: 350231e88337c9549867deae9c258d1f, type: 3}
+      propertyPath: m_ReferenceResolution.y
+      value: 2400
+      objectReference: {fileID: 0}
     - target: {fileID: 6096806959751645915, guid: 350231e88337c9549867deae9c258d1f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1

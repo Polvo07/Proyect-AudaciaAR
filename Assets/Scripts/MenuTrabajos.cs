@@ -23,13 +23,8 @@ public class MenuTrabajos : MonoBehaviour
         SceneManager.LoadScene("06-Robot");
     }
 
-    public void IrAEcosistemas()
-    {
-        SceneManager.LoadScene("07-Ecosistemas");
-    }
-
     public void IrAVart()
     {
-        SceneManager.LoadScene("08-Vart");
+        SceneManager.LoadScene("07-Vart");
     }
 }
