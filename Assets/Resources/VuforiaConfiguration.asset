@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: AaQfAPf/////AAABmSDSmq+yuEZ1vlOFJdUDH7ormcUlVoRagIePGTxw2nMBgttbP6OunsSNmo1+Wu4B3pXgLmYEOgr4a/Wz0JTZV+hnJG0iTUq6KyWuu4vxk/dj+sLwOj/LZUjQfjZ786T6ZgwrcedJVDgq+UqmYv67IWTA/mh+HZP86maFeSV8eg9K6BtomBEiKQpj4HBuHxaNHBOYJZmvjqSuKTM+6STetwSeUX6r484ketNrTEkL137xfeTUitPSYcfCzNNblLjzvN15JkUfixvLyJ0fVev2RWPlMgSmE8Hxz43AsDfEgNodQn+qbpA7/Umzi+QX0IXssTbkX4QGQjTZhoV+S1ZLdY5mj5jUjLasrxeqo2dkPr5a
-    ufoLicenseKey: QVlnbklpVC8vLy8vQUFBQUtGS0szd01sNFUvUnAxSDc4S25GY2tWR1hERHJ5bDBHNHdabVRianFwczRvQU1pNXVoMnZNQ3RlNWZUT0hScVk0UVFSc3U2UmlONEJadHRQQjIvamg1Smh6a3ZqOHhhS2dka3daZG8vTFdwczNFVTlJd1FPOG9yek1OS0dKTDZpNzBzTnYva0czMFI5QWk4NG9XR0ZxVXZVdVRiMzJsSk5qU1VBRXZOZHcxVDFMb0t1OWNDdVJsMTE1RHQwSXgvUmlOeVBPYnp5RUp2cFpHZkNQVTVzVGZxVXhTS0t1WnBiREJ4NGtPd1d4a0R2VTNjdVBBbnhWVnNxQXdnSVBkbFBlUy9CQ0s2anhJczBjNUR2MFVKc2hYMWtRSmJiWnpvOG42UE9Nd0REZ2M1R0QrZEMrb2RXWCs5Y2lORS8yYWF2ZGxCQlZVNStRRWk3T1ZnN0F5b2xncVJsQi9TS00rUDJwbE12bDdrTmZrQWk=
+    vuforiaLicenseKey: 
+    ufoLicenseKey: QWNZeE1Wdi8vLy8vQUFBQUtCZ0QybytHQzBjSW1RSXBud3JMNzMyTWo3NWw5b296d0I2VWlmRlBqakxManNIOWtXbCs5V0J5aExuR1oxcUNrS1dLT09ZSmIxdWM0NXBGb29MOXZRQmwzVHBvWXQ1VGYrZ21uSDFvSFc5R2pwUlBRNHN5a0kzdHBUc21PY2tMTy9WTGtJSXpVVi9EblQrMkdMcGFTem5kaEdCcU1tQUI2cC90QXRldjFGNkJmTnRsV0dwQ3MwNTJRN1EyaWg1dGZpWnF2cnNsUGplMU1JSmQ5NmV1NlFTQ0xUY3dFVGYzUDJBWjI2VXduSUJTbUgxV2tpWjJqWk54V0ZURGVrOGhMNWNyZlN0V1pMNFloY1NOdThZVnE2d1ljeW1sbXlwWkJPR2g1V0hGUzhJRlNEU2ovR3lPNU5mOGkzQXc5cW5DN2dybXdvYkNSVWk0VTl4M0FLRGpuV0VrWDJYQy96dDBXVCthdXJQaGdaaEs=
     delayedInitialization: 0
     cameraFocusModeSetting: 2
     cameraDeviceModeSetting: -1
@@ -23,7 +23,7 @@ MonoBehaviour:
     modelTargetRecoWhileExtendedTracked: 1
     shareRecordingsInITunes: 0
     logLevel: 0
-    version: 11.4.4
+    version: 1.0.0
     eulaAcceptedVersions: '{"Values":["11.4","0.0"]}'
   database:
     disableModelExtraction: 0
@@ -46,8 +46,8 @@ MonoBehaviour:
     autoImportArcore: 1
     thirdPartyARCoreClientDetected: 0
   playmode:
-    mRecordingPath: C:/Users/USER/Downloads/session_audacia_nuevo/session_audacia_nuevo.mp4
-    playModeType: 2
+    mRecordingPath: 
+    playModeType: 0
     mSimulatorInputActionAsset: {fileID: -944628639613478452, guid: eae7022f5cfd04e8189b1f372421b225, type: 3}
   webcam:
     renderTextureLayer: 30
