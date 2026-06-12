@@ -563,7 +563,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-<<<<<<< HEAD
       - m_Target: {fileID: 1456425853}
         m_TargetAssemblyTypeName: UIController, Assembly-CSharp
         m_MethodName: MostrarImagen
@@ -576,8 +575,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-=======
->>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
   OnTargetLost:
     m_PersistentCalls:
       m_Calls:
@@ -605,7 +602,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-<<<<<<< HEAD
       - m_Target: {fileID: 1456425853}
         m_TargetAssemblyTypeName: UIController, Assembly-CSharp
         m_MethodName: OcultarImagen
@@ -618,8 +614,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-=======
->>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
 --- !u!114 &256574020
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -763,12 +757,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2243165553490342789, guid: 921f614d1b3a8fe469905585cb66e1ff, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1456425852}
-<<<<<<< HEAD
     - targetCorrespondingSourceObject: {fileID: 2243165553490342789, guid: 921f614d1b3a8fe469905585cb66e1ff, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1456425853}
-=======
->>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
   m_SourcePrefab: {fileID: 100100000, guid: 921f614d1b3a8fe469905585cb66e1ff, type: 3}
 --- !u!1 &513904565 stripped
 GameObject:
@@ -1234,14 +1225,10 @@ PrefabInstance:
       addedObject: {fileID: 165713996}
     - targetCorrespondingSourceObject: {fileID: 2013693897379142494, guid: 7eb1b19f1d30c1f41be326e7a8d90728, type: 3}
       insertIndex: -1
-<<<<<<< HEAD
       addedObject: {fileID: 2104753066}
     - targetCorrespondingSourceObject: {fileID: 2013693897379142494, guid: 7eb1b19f1d30c1f41be326e7a8d90728, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2135364102}
-=======
-      addedObject: {fileID: 202619757}
->>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7eb1b19f1d30c1f41be326e7a8d90728, type: 3}
 --- !u!224 &1155504778 stripped
