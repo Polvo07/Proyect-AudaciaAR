@@ -186,15 +186,17 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2243165553490342789, guid: 921f614d1b3a8fe469905585cb66e1ff, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1097309472}
-<<<<<<< HEAD
     - targetCorrespondingSourceObject: {fileID: 2243165553490342789, guid: 921f614d1b3a8fe469905585cb66e1ff, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1097309473}
+<<<<<<< HEAD
 =======
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
 =======
     m_AddedComponents: []
 >>>>>>> parent of 7ef1ba0 (escaneando)
+=======
+>>>>>>> parent of 17f57b9 (Fin)
   m_SourcePrefab: {fileID: 100100000, guid: 921f614d1b3a8fe469905585cb66e1ff, type: 3}
 --- !u!1001 &58536579
 PrefabInstance:
@@ -401,16 +403,18 @@ PrefabInstance:
 <<<<<<< HEAD
     - targetCorrespondingSourceObject: {fileID: 2013693897379142494, guid: 7eb1b19f1d30c1f41be326e7a8d90728, type: 3}
       insertIndex: -1
-<<<<<<< HEAD
       addedObject: {fileID: 183072649}
     - targetCorrespondingSourceObject: {fileID: 2013693897379142494, guid: 7eb1b19f1d30c1f41be326e7a8d90728, type: 3}
       insertIndex: -1
       addedObject: {fileID: 851875374}
+<<<<<<< HEAD
 =======
       addedObject: {fileID: 1768953403}
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
 =======
 >>>>>>> parent of 7ef1ba0 (escaneando)
+=======
+>>>>>>> parent of 17f57b9 (Fin)
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7eb1b19f1d30c1f41be326e7a8d90728, type: 3}
 --- !u!224 &58536580 stripped
@@ -982,7 +986,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65842eace63e68645893b9e538b279df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   imagen: {fileID: 183072650}
 --- !u!114 &1097309473
 MonoBehaviour:
@@ -997,11 +1000,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   imagen: {fileID: 851875370}
+<<<<<<< HEAD
 =======
   imagen: {fileID: 1768953402}
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
 =======
 >>>>>>> parent of 7ef1ba0 (escaneando)
+=======
+>>>>>>> parent of 17f57b9 (Fin)
 --- !u!1001 &1098600475
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1432,7 +1438,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-<<<<<<< HEAD
       - m_Target: {fileID: 1097309473}
         m_TargetAssemblyTypeName: UIController, Assembly-CSharp
         m_MethodName: MostrarImagen
@@ -1445,10 +1450,13 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+<<<<<<< HEAD
 =======
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
 =======
 >>>>>>> parent of 7ef1ba0 (escaneando)
+=======
+>>>>>>> parent of 17f57b9 (Fin)
   OnTargetLost:
     m_PersistentCalls:
       m_Calls:
@@ -1477,7 +1485,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-<<<<<<< HEAD
       - m_Target: {fileID: 1097309473}
         m_TargetAssemblyTypeName: UIController, Assembly-CSharp
         m_MethodName: OcultarImagen
@@ -1490,10 +1497,13 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+<<<<<<< HEAD
 =======
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
 =======
 >>>>>>> parent of 7ef1ba0 (escaneando)
+=======
+>>>>>>> parent of 17f57b9 (Fin)
 --- !u!114 &1534668474
 MonoBehaviour:
   m_ObjectHideFlags: 0
