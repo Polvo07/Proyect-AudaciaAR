@@ -563,6 +563,7 @@ CanvasRenderer:
   m_GameObject: {fileID: 1143383184}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1312226995 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8470144789834295893, guid: a6dbd74e6e5aa194c8ed04fecdbdb3e9, type: 3}
@@ -579,20 +580,12 @@ GameObject:
   m_PrefabInstance: {fileID: 6461375737608187666}
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 7ef1ba0 (escaneando)
 --- !u!224 &1350292949 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 7465387632574384251, guid: 569b84ea59845a44b82621932c181d5a, type: 3}
   m_PrefabInstance: {fileID: 7108620658996671890}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &1555444241 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8075314772061729928, guid: d1b9ef1777ab77d45bc29aee6df2d99d, type: 3}
-  m_PrefabInstance: {fileID: 832600204474882192}
-  m_PrefabAsset: {fileID: 0}
---- !u!224 &1555444242 stripped
-RectTransform:
-  m_CorrespondingSourceObject: {fileID: 8265905226782933980, guid: d1b9ef1777ab77d45bc29aee6df2d99d, type: 3}
-  m_PrefabInstance: {fileID: 832600204474882192}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1654783220
 GameObject:
@@ -982,6 +975,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       - m_Target: {fileID: 6461375737608187668}
 =======
       - m_Target: {fileID: 1925038522}
@@ -1012,6 +1006,8 @@ MonoBehaviour:
         m_CallState: 2
 =======
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
+=======
+>>>>>>> parent of 7ef1ba0 (escaneando)
   OnTargetLost:
     m_PersistentCalls:
       m_Calls:
@@ -1028,6 +1024,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       - m_Target: {fileID: 6461375737608187668}
 =======
       - m_Target: {fileID: 1925038522}
@@ -1058,6 +1055,8 @@ MonoBehaviour:
         m_CallState: 2
 =======
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
+=======
+>>>>>>> parent of 7ef1ba0 (escaneando)
 --- !u!114 &1900204161
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1147,15 +1146,20 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 6461375737608187666}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 6461375737608187667}
 =======
   m_GameObject: {fileID: 1162555063}
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
+=======
+  m_GameObject: {fileID: 0}
+>>>>>>> parent of 7ef1ba0 (escaneando)
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 65842eace63e68645893b9e538b279df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1001 &4472094660770879676
 =======
@@ -1327,6 +1331,8 @@ PrefabInstance:
 =======
   m_SourcePrefab: {fileID: 100100000, guid: d1b9ef1777ab77d45bc29aee6df2d99d, type: 3}
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
+=======
+>>>>>>> parent of 7ef1ba0 (escaneando)
 --- !u!1001 &5013636546506035892
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1672,9 +1678,6 @@ PrefabInstance:
       addedObject: {fileID: 1143383185}
     - targetCorrespondingSourceObject: {fileID: 2013693897379142494, guid: 7eb1b19f1d30c1f41be326e7a8d90728, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1555444242}
-    - targetCorrespondingSourceObject: {fileID: 2013693897379142494, guid: 7eb1b19f1d30c1f41be326e7a8d90728, type: 3}
-      insertIndex: -1
       addedObject: {fileID: 1350292949}
     - targetCorrespondingSourceObject: {fileID: 2013693897379142494, guid: 7eb1b19f1d30c1f41be326e7a8d90728, type: 3}
       insertIndex: -1
@@ -1743,6 +1746,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
+<<<<<<< HEAD
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 2243165553490342789, guid: 921f614d1b3a8fe469905585cb66e1ff, type: 3}
       insertIndex: -1
@@ -1754,6 +1758,9 @@ PrefabInstance:
 =======
       addedObject: {fileID: 1925038522}
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
+=======
+    m_AddedComponents: []
+>>>>>>> parent of 7ef1ba0 (escaneando)
   m_SourcePrefab: {fileID: 100100000, guid: 921f614d1b3a8fe469905585cb66e1ff, type: 3}
 --- !u!1 &6461375737608187667 stripped
 GameObject:

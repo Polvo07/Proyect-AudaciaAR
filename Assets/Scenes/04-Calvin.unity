@@ -377,7 +377,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 7397129332743292325, guid: 921f614d1b3a8fe469905585cb66e1ff, type: 3}
   m_PrefabInstance: {fileID: 1178243001}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1178243002}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 65842eace63e68645893b9e538b279df, type: 3}
@@ -787,6 +787,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
+<<<<<<< HEAD
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 2243165553490342789, guid: 921f614d1b3a8fe469905585cb66e1ff, type: 3}
       insertIndex: -1
@@ -833,6 +834,10 @@ MonoBehaviour:
 =======
   imagen: {fileID: 1814634833}
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
+=======
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 921f614d1b3a8fe469905585cb66e1ff, type: 3}
+>>>>>>> parent of 7ef1ba0 (escaneando)
 --- !u!1001 &1291670362
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1146,6 +1151,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+<<<<<<< HEAD
       - m_Target: {fileID: 1178243003}
         m_TargetAssemblyTypeName: UIController, Assembly-CSharp
         m_MethodName: OcultarImagen
@@ -1173,6 +1179,8 @@ MonoBehaviour:
         m_CallState: 2
 =======
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
+=======
+>>>>>>> parent of 7ef1ba0 (escaneando)
   OnTargetLost:
     m_PersistentCalls:
       m_Calls:
@@ -1188,6 +1196,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+<<<<<<< HEAD
       - m_Target: {fileID: 1178243003}
         m_TargetAssemblyTypeName: UIController, Assembly-CSharp
         m_MethodName: MostrarImagen
@@ -1215,6 +1224,8 @@ MonoBehaviour:
         m_CallState: 2
 =======
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
+=======
+>>>>>>> parent of 7ef1ba0 (escaneando)
 --- !u!114 &1518241674
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1295,6 +1306,7 @@ MonoBehaviour:
   mDatasetName: Vuforia/calvin111.xml
   mCastedBehaviour: {fileID: 1518241674}
   mModelTargetPreview: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1001 &1815663102
 =======
@@ -1463,6 +1475,8 @@ RectTransform:
   m_PrefabInstance: {fileID: 1814634832}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
+=======
+>>>>>>> parent of 7ef1ba0 (escaneando)
 --- !u!1001 &2031823976
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1775,6 +1789,7 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2013693897379142494, guid: 7eb1b19f1d30c1f41be326e7a8d90728, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2031823977}
+<<<<<<< HEAD
     - targetCorrespondingSourceObject: {fileID: 2013693897379142494, guid: 7eb1b19f1d30c1f41be326e7a8d90728, type: 3}
       insertIndex: -1
 <<<<<<< HEAD
@@ -1785,6 +1800,8 @@ PrefabInstance:
 =======
       addedObject: {fileID: 1814634834}
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
+=======
+>>>>>>> parent of 7ef1ba0 (escaneando)
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7eb1b19f1d30c1f41be326e7a8d90728, type: 3}
 --- !u!224 &1990140157283278241 stripped

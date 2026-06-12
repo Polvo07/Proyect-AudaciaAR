@@ -320,6 +320,7 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2013693897379142494, guid: 7eb1b19f1d30c1f41be326e7a8d90728, type: 3}
       insertIndex: -1
       addedObject: {fileID: 356955491}
+<<<<<<< HEAD
     - targetCorrespondingSourceObject: {fileID: 2013693897379142494, guid: 7eb1b19f1d30c1f41be326e7a8d90728, type: 3}
       insertIndex: -1
 <<<<<<< HEAD
@@ -330,6 +331,8 @@ PrefabInstance:
 =======
       addedObject: {fileID: 271142227}
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
+=======
+>>>>>>> parent of 7ef1ba0 (escaneando)
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7eb1b19f1d30c1f41be326e7a8d90728, type: 3}
 --- !u!1 &61234441 stripped
@@ -401,6 +404,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
+<<<<<<< HEAD
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 2243165553490342789, guid: 921f614d1b3a8fe469905585cb66e1ff, type: 3}
       insertIndex: -1
@@ -412,6 +416,9 @@ PrefabInstance:
 =======
       addedObject: {fileID: 411084911}
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
+=======
+    m_AddedComponents: []
+>>>>>>> parent of 7ef1ba0 (escaneando)
   m_SourcePrefab: {fileID: 100100000, guid: 921f614d1b3a8fe469905585cb66e1ff, type: 3}
 --- !u!114 &119889971 stripped
 MonoBehaviour:
@@ -419,10 +426,14 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 119889970}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 119889972}
 =======
   m_GameObject: {fileID: 411084910}
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
+=======
+  m_GameObject: {fileID: 0}
+>>>>>>> parent of 7ef1ba0 (escaneando)
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 65842eace63e68645893b9e538b279df, type: 3}
@@ -527,16 +538,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &271142223 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8075314772061729928, guid: d1b9ef1777ab77d45bc29aee6df2d99d, type: 3}
-  m_PrefabInstance: {fileID: 1200392926}
-  m_PrefabAsset: {fileID: 0}
---- !u!224 &271142227 stripped
-RectTransform:
-  m_CorrespondingSourceObject: {fileID: 8265905226782933980, guid: d1b9ef1777ab77d45bc29aee6df2d99d, type: 3}
-  m_PrefabInstance: {fileID: 1200392926}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &356955490
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -663,24 +664,6 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 7465387632574384251, guid: 569b84ea59845a44b82621932c181d5a, type: 3}
   m_PrefabInstance: {fileID: 356955490}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &411084910 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2243165553490342789, guid: 921f614d1b3a8fe469905585cb66e1ff, type: 3}
-  m_PrefabInstance: {fileID: 119889970}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &411084911
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 411084910}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 65842eace63e68645893b9e538b279df, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  imagen: {fileID: 271142223}
 --- !u!1 &625767703
 GameObject:
   m_ObjectHideFlags: 0
@@ -754,6 +737,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       - m_Target: {fileID: 119889973}
 =======
       - m_Target: {fileID: 411084911}
@@ -784,6 +768,8 @@ MonoBehaviour:
         m_CallState: 2
 =======
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
+=======
+>>>>>>> parent of 7ef1ba0 (escaneando)
   OnTargetLost:
     m_PersistentCalls:
       m_Calls:
@@ -800,6 +786,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       - m_Target: {fileID: 119889973}
 =======
       - m_Target: {fileID: 411084911}
@@ -830,6 +817,8 @@ MonoBehaviour:
         m_CallState: 2
 =======
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
+=======
+>>>>>>> parent of 7ef1ba0 (escaneando)
 --- !u!114 &625767706
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1307,6 +1296,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+<<<<<<< HEAD
 --- !u!1001 &1200392926
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1558,6 +1548,8 @@ RectTransform:
 >>>>>>> 213fb7618c0e1c3f713aff3ee5d1e491ecc4e226
 =======
 >>>>>>> parent of 213fb76 (a)
+=======
+>>>>>>> parent of 7ef1ba0 (escaneando)
 --- !u!1 &1818887735
 GameObject:
   m_ObjectHideFlags: 0

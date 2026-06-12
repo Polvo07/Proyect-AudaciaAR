@@ -46,8 +46,13 @@ MonoBehaviour:
     autoImportArcore: 1
     thirdPartyARCoreClientDetected: 0
   playmode:
+<<<<<<< HEAD
     mRecordingPath: 
     playModeType: 0
+=======
+    mRecordingPath: C:/Users/LABORATORIO/Desktop/session-final-prueba.mp4
+    playModeType: 2
+>>>>>>> parent of 7ef1ba0 (escaneando)
     mSimulatorInputActionAsset: {fileID: -944628639613478452, guid: eae7022f5cfd04e8189b1f372421b225, type: 3}
   webcam:
     renderTextureLayer: 30
