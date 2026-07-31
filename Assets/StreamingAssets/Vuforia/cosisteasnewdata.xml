@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="cosisteasnewdata" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="cosisteasnewdatas_assembly" assemblyId="7ecb7d821a0b442fabce792284052dff">
+<Part name="cosisteasnewdata" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.000684321 0.290461 2.02705" rotation="AD: 0.999839 0.0717852 -0.267906 208.955" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.00197887 0.291108 2.02593" rotation="AD: 0.997221 -0.154271 0.575746 205.905" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.000684321 0.29244 2.02362" rotation="AD: 0.731172 -0.731172 2.72877 187.682" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="0.00197881 0.291793 2.02474" rotation="AD: -0.932212 -0.432641 1.61464 165.129" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

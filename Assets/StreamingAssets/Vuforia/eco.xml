@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="eco" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="ecos_assembly" assemblyId="b51524476f8b422999afab8817dd4ded">
+<Part name="eco" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.108458 0.456187 2.6525" rotation="AD: 0.99989 0.0681414 -0.232617 211.782" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.0576816 0.493587 2.58413" rotation="AD: -0.932212 -0.432641 1.61464 165.129" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.10486 0.412316 2.72489" rotation="AD: 0.731172 -0.731172 2.72877 187.682" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="0.0576814 0.388727 2.76575" rotation="AD: 0.997221 -0.154271 0.575746 205.905" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

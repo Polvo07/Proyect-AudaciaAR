@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="calvin111" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="calvin111s_assembly" assemblyId="672eb1f41f794f7db4e940f126356d70">
+<Part name="calvin111" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.0136386 0.00579137 1.97789" rotation="AD: 0.999549 0.0806831 -0.409886 200.588" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.0115137 0.00848603 1.97737" rotation="AD: -0.932212 -0.432641 1.61464 165.129" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.0170909 -0.00581622 2.00214" rotation="AD: 0.731172 -0.731172 2.72877 187.682" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="0.0115135 -0.00860481 2.00697" rotation="AD: 0.997221 -0.154271 0.575746 205.905" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

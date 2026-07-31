@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.4.1">
+        <ModelTarget name="VartFixed2" targetId="47c55837da814f389e91069cc4a35329" version="14.0" toolVersion="v7.4.1" bbox="-0.0433288 0.0021602 -0.0497182 0.0497794 0.0972682 0.0499481" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="VartFixed2" assemblyId="85e82bece2df4fb0b2449294c1fbace7">
+        <Part name="VartFixed2" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

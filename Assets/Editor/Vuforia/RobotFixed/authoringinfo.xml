@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.4.1">
+        <ModelTarget name="RobotFixed" targetId="584a9300b6d746b3823ded018bebd8cc" version="14.0" toolVersion="v7.4.1" bbox="-0.477327 -0.000329256 -0.310451 0.47694 0.99927 0.293696" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="RobotFixed" assemblyId="9be0b48d4efa4df49f76a1bd7d67db95">
+        <Part name="RobotFixed" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
